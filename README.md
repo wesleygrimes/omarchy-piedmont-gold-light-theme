@@ -22,9 +22,11 @@ Cycle with `Super + Ctrl + Space` or `omarchy theme bg next`.
 
 | File | What it is |
 | --- | --- |
-| `1-uwharrie.png` | Still wallpaper |
+| `1-uwharrie.png` | Still wallpaper (saturated light lift; nearest-neighbor only) |
 | `2-uwharrie-animated.mp4` | Looping animated wallpaper (native Omarchy video background) |
 | `3-uwharrie-animated.gif` | Original GIF, also listed as a background |
+
+A milder washed still exists for comparison next to this repo on the build box. Swap `1-uwharrie.png` if you prefer it.
 
 Omarchy 4.5 plays mp4/webm wallpapers through OWE. The GIF is included for tools that prefer it, and as the source of the mp4.
 
