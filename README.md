@@ -32,7 +32,7 @@ Omarchy 4.5 plays mp4/webm wallpapers through OWE. The GIF is included for tools
 
 ## Credits
 
-Wallpaper: source unknown. Replace this line before publishing.
+Wallpaper: Wes Grimes.
 
 ## License
 
